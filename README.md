@@ -2,7 +2,7 @@
 
 An interactive study tool for learning the eight classic system archetypes from systems thinking. It runs in any web browser, with nothing to install and no login.
 
-**Live site:** (https://pgonzaleze.github.io/REM_211_Archetypes/)
+**Live site:** (https://pgonzaleze.github.io/REM_221_Archetypes/)
 
 Built for the course *REM 221 - FALL 2026* at *SFU*.
 
